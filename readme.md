@@ -1,6 +1,6 @@
 # Shahid Khan
 
-**Solution Architect | 11+ Years of Experience | .NET | SQL Server | Microservices | Cloud & Enterprise Solutions**
+Solution Architect | 11+ Years of Experience | .NET | SQL Server | Microservices | Cloud & Enterprise Solutions
 
 ---
 
@@ -68,7 +68,7 @@ To contribute my technical leadership and architectural expertise toward buildin
 
 ## 📫 Contact
 
-- **Email:** shahid.khan@icaremanager.com **
+- **Email:** shahid.khan@icaremanager.com
 
 ---
 
