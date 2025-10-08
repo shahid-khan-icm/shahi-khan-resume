@@ -31,15 +31,14 @@ To contribute my technical leadership and architectural expertise toward buildin
 
 ## 💼 Work Experience
 
-**Solution Architect** — *[Your Current Company Name]*  
-*MM YYYY – Present*
+**Solution Architect** — *ICareManager iCM*  
+*04 2025 – Present*
 
 - Designed end-to-end architecture for enterprise applications using **microservices and modular design**.
 - Led cross-functional teams in delivering high-availability systems.
 - Optimized performance and database design for large-scale applications.
 - Collaborated with stakeholders to define roadmaps and technical strategies.
 
-*(You can add previous roles here as bullets or list companies if needed.)*
 
 ---
 
@@ -54,8 +53,8 @@ To contribute my technical leadership and architectural expertise toward buildin
 
 ## 📚 Education
 
-**Bachelor's / Master's in Computer Science or Equivalent**  
-*University Name — Year*
+**Bachelor's in Computer Science**  
+*University Name — Comsats/AUP *
 
 ---
 
@@ -69,9 +68,7 @@ To contribute my technical leadership and architectural expertise toward buildin
 
 ## 📫 Contact
 
-- **Email:** shahid.khan@icaremanager.com *(or another email if preferred)*
-- **LinkedIn:** *(Add your profile link if you have one)*
-- **GitHub:** *(Optional if this is your GitHub profile already)*
+- **Email:** shahid.khan@icaremanager.com **
 
 ---
 
